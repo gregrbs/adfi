@@ -1,0 +1,26 @@
+
+.checkbox-teal [type="checkbox"]:checked+label:before
+{
+    border-color: transparent #009688 #009688 transparent;
+}
+
+#admin
+{
+	text-align: right;
+	color: #555555;
+}
+
+#menu
+{
+	display: table;
+	padding: 0;
+}
+
+#menu li{
+	display : table-cell;
+}
+
+#formenu
+{
+	
+}
